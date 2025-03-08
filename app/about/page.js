@@ -5,8 +5,7 @@ import Link from "next/link";
 export default function About() {
   return (
     <div className="min-h-screen bg-gray-100 text-gray-900 p-10">
-      <h1 className="text-3xl font-bold">About Hassane Jaber</h1>
-
+      <h1 className="text-3xl font-bold">About Me</h1>
       <p className="mt-4 text-lg">
         Hi, I&apos;m <span className="font-bold">Hassane Jaber</span>, a passionate Computer Engineering student at 
         Lebanese American University with experience in full-stack development, AI, and teaching.
